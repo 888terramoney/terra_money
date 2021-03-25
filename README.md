@@ -11,7 +11,7 @@ A snapshot will be taken to create a lottery list of tickets with this script
 snapshot.py 
 ```
 
-The file will uploaded to the snapshots folder with date and time after the lotter
+The file will uploaded to the snapshots folder with date and time after the lottery
 
 The winner willl be selected with this script, 
 
